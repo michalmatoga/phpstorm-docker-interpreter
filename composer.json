@@ -5,5 +5,8 @@
     },
     "autoload": {
         "psr-4": {"Acme\\": "src/Acme/"}
+    },
+    "autoload-dev": {
+        "psr-4": {"Acme\\": "test/Acme/"}
     }
 }
