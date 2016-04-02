@@ -1,0 +1,9 @@
+{
+    "name": "michalmatoga/phpstorm-docker-interpreter",
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/Acme/"}
+    }
+}
